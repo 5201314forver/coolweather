@@ -46,5 +46,4 @@ public class CoolWeatherOpenHelper extends SQLiteOpenHelper {
 		// TODO Auto-generated method stub
 
 	}
-
 }

@@ -11,6 +11,8 @@ import java.net.URL;
 import org.apache.http.HttpConnection;
 import org.xml.sax.InputSource;
 
+import android.util.Log;
+
 /**
  * 服务器的交互
  * 
